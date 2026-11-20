@@ -1,0 +1,19 @@
+{
+  "vakken": [
+    {"id": 1, "naam": "Informatica voor IoT 2", "docent": "Docent A"},
+    {"id": 2, "naam": "Networking Essentials", "docent": "Docent B"},
+    {"id": 3, "naam": "Elektronica Basis", "docent": "Docent C"}
+  ],
+  "taken": [
+    {"id": 1, "titel": "Opdracht 3a afwerken", "vak_id": 1, "deadline": "2026-11-27", "klaar": false},
+    {"id": 2, "titel": "Opdracht 2 indienen", "vak_id": 1, "deadline": "2026-11-10", "klaar": true},
+    {"id": 3, "titel": "Flask-oefening blog", "vak_id": 1, "deadline": "2026-11-15", "klaar": false},
+    {"id": 4, "titel": "Packet Tracer labo", "vak_id": 2, "deadline": "2026-11-18", "klaar": false},
+    {"id": 5, "titel": "Subnetting oefeningen", "vak_id": 2, "deadline": "2026-11-25", "klaar": false},
+    {"id": 6, "titel": "Hoofdstuk 5 samenvatten", "vak_id": 2, "deadline": "2026-12-02", "klaar": false},
+    {"id": 7, "titel": "Labo schakeling meten", "vak_id": 3, "deadline": "2026-11-12", "klaar": true},
+    {"id": 8, "titel": "Verslag labo 4", "vak_id": 3, "deadline": "2026-11-22", "klaar": false},
+    {"id": 9, "titel": "Weerstanden berekenen", "vak_id": 3, "deadline": "2026-12-05", "klaar": false},
+    {"id": 10, "titel": "Examenvragen herhalen", "vak_id": 1, "deadline": "2026-12-15", "klaar": false}
+  ]
+}
