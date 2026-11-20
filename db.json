@@ -11,7 +11,7 @@
     {"id": 4, "titel": "Opdracht 8: persoonlijke veiligheid", "vak_id": 2, "deadline": "2026-11-29", "klaar": false},
     {"id": 5, "titel": "PROJECTOPDRACHT: Wi-Fi integratie", "vak_id": 3, "deadline": "2026-11-29", "klaar": false},
     {"id": 6, "titel": "TOETS: PAN-, (W)LAN- en LPWAN-netwerken", "vak_id": 3, "deadline": "2026-12-02", "klaar": false},
-    {"id": 7, "titel": "EXAMEN: B-VCA", "vak_id": 3, "deadline": "2026-12-04", "klaar": false},
+    {"id": 7, "titel": "EXAMEN: B-VCA", "vak_id": 3, "deadline": "2026-12-04", "klaar": true},
     {"id": 8, "titel": "Reminder: Finale versies opdrachten week 6 - 10", "vak_id": 1, "deadline": "2026-12-11", "klaar": false},
     {"id": 9, "titel": "Reminder: Finale versies opdrachten week 6 - 10", "vak_id": 2, "deadline": "2026-12-11", "klaar": false}
   ]
